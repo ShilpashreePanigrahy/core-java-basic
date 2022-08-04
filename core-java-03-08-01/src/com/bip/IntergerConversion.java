@@ -12,15 +12,12 @@ public class IntergerConversion {
 		Scanner f = new Scanner(System.in);
 		System.out.println("Enter a integer : ");
 		a = f.nextInt();
-		b=(byte)a;
+		b = (byte) a;
 		System.out.println("After conversion into byte : " + b);
-		c = (char)a;
+		c = (char) a;
 		System.out.println("After conversion into char : " + c);
-		d = (float)a;
+		d = (float) a;
 		System.out.println("After conversion into float : " + d);
-		
-		
-		
 
 	}
 

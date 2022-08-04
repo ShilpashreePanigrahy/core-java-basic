@@ -1,0 +1,45 @@
+//Inde.  Convesions Comment
+
+Enter the number check Prime, event, odd - C
+
+Enter 5 no. get sum, avg                 - C
+
+Check number is armstrong, perfect       - C
+
+Get Fact of number                       - C
+
+Get Marriage and Vote Eligi... //Name, age , Gender get details.
+
+input 10 number and get sum of even and odd.//1,2,3,4,5,6,7,8,9,10 => {evenn = x odd = y}
+
+
+Reversh String               - C
+
+Rev. Number                  - C
+
+Rev String using Recursion // Try it
+
+Use of Conditional Operator //  - C
+
+
+java.lang.Object
+---------------------
+equals
+toString
+hashCode
+getClass
+
+wait
+notify
+notifyAll
+clone
+
+finilize
+
+
+
+
+
+
+
+

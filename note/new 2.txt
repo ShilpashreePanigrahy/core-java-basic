@@ -1,0 +1,57 @@
+Keyword
+---------
+
+DataType
+-----------
+byte -C
+char -C
+int -C
+float-C
+double
+boolean
+long
+void
+
+
+Cond
+-------
+if -C
+else -C
+switch -C
+case -C
+default
+
+Looping
+--------
+for
+while -C
+double
+
+Jumping
+----------
+break -C
+continue
+return -C
+
+goto(res)
+
+Access Mo
+------------
+public -C
+private
+protected
+
+
+Class Level
+-------------
+class
+interface
+extends
+implemnets
+abstract
+enum
+
+Object Rec
+----------
+instanceof
+
